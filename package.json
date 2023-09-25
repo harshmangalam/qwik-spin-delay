@@ -1,6 +1,6 @@
 {
   "name": "qwik-spin-delay",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Smart spinner component for Qwik, to manage the duration of loading states.",
   "main": "./lib/index.qwik.mjs",
   "qwik": "./lib/index.qwik.mjs",
@@ -9,6 +9,10 @@
     "email": "harshdev8218@gmail.com",
     "name": "Harsh Mangalam"
   },
+  "keywords": [
+    "qwik",
+    "qwikcity"
+  ],
   "exports": {
     ".": {
       "import": "./lib/index.qwik.mjs",
