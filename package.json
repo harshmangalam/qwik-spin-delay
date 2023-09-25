@@ -1,7 +1,7 @@
 {
-  "name": "my-qwik-library-name",
-  "version": "0.0.1",
-  "description": "Create a reusable Qwik component library",
+  "name": "qwik-spin-delay",
+  "version": "1.0.0",
+  "description": "Smart spinner component for Qwik, to manage the duration of loading states.",
   "main": "./lib/index.qwik.mjs",
   "qwik": "./lib/index.qwik.mjs",
   "types": "./lib-types/index.d.ts",
