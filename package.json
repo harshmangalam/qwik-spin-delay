@@ -5,6 +5,10 @@
   "main": "./lib/index.qwik.mjs",
   "qwik": "./lib/index.qwik.mjs",
   "types": "./lib-types/index.d.ts",
+  "author": {
+    "email": "harshdev8218@gmail.com",
+    "name": "Harsh Mangalam"
+  },
   "exports": {
     ".": {
       "import": "./lib/index.qwik.mjs",
